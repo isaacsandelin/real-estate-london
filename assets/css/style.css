@@ -13,23 +13,41 @@ body {
 
 #header {
     width: 100%;
-    height: 20vh;
+    height: 15vh;
     background-color: #fff;
-    display: flex;
-    justify-content: center;
+    text-align: center;
+    
 }
 
 #header h1 {
     font-family: "Raleway", sans-serif;
     color: black;
-    padding-top: 4vh;
+    padding-top: 2vh;
     font-size: 300%;
     font-weight: 600;
 }
 
 
+#header li {
+    list-style: none;
+    padding: 4vh 4vh 4vh 4vh;
+    display: inline;
+    font-family: DM Sans, sans-serif;
+}
 
+#header ul {
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+}
 
+#header a {
+    color: #000;
+    text-decoration: none;
+    font-size: 100%;
+    text-transform: uppercase;
+    font-weight: 300;
+
+}
 
 /* HERO */
 
