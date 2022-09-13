@@ -475,3 +475,107 @@ footer {
     border-bottom: 2px solid #fff;
 }
 
+/* ROW 3 */
+
+#row-3 {
+    width: 100%;
+    height: 30vh;
+    background-color: #000;
+    margin-top: 2vh;
+    display: inline;
+    
+}
+
+#column-5 {
+    height: 30vh;
+    width: 50%;
+    background: url(../images/imagereader-home-london-3.png) no-repeat center center;
+    background-size: 100%;
+    float: right;
+   
+}
+
+#column-5 h2 {
+    color: #fff;
+    padding: 20vh 0 0 2vh;
+}
+
+#column-5 a {
+    color: #fff;
+    text-decoration: none;
+    margin: 2vh 0 0 2vh;
+    border-bottom: 2px solid #fff;
+}
+
+#column-6 {
+    height: 30vh;
+    width: 50%;
+    background: url(../images/imagereader-view-london-1234.png) no-repeat center center;
+    background-size: 100%;
+    float: left;
+}
+
+#column-6 h2 {
+    color: #fff;
+    padding: 20vh 0 0 2vh;
+}
+
+#column-6 a {
+    color: #fff;
+    text-decoration: none;
+    margin: 2vh 0 0 2vh;
+    border-bottom: 2px solid #fff;
+}
+
+
+/* ROW 4 */
+
+#row-4 {
+    width: 100%;
+    height: 30vh;
+    background-color: #000;
+    margin-top: 2vh;
+    
+}
+
+#column-7 {
+    height: 30vh;
+    width: 50%;
+    background: url(../images/imagereader-home-london-3.png) no-repeat center center;
+    background-size: 100%;
+    float: right;
+   
+}
+
+#column-7 h2 {
+    color: #fff;
+    padding: 20vh 0 0 2vh;
+}
+
+#column-7 a {
+    color: #fff;
+    text-decoration: none;
+    margin: 2vh 0 0 2vh;
+    border-bottom: 2px solid #fff;
+}
+
+#column-8 {
+    height: 30vh;
+    width: 50%;
+    background: url(../images/imagereader-view-london-1234.png) no-repeat center center;
+    background-size: 100%;
+    float: left;
+}
+
+#column-8 h2 {
+    color: #fff;
+    padding: 20vh 0 0 2vh;
+}
+
+#column-8 a {
+    color: #fff;
+    text-decoration: none;
+    margin: 2vh 0 0 2vh;
+    border-bottom: 2px solid #fff;
+}
+
