@@ -55,6 +55,10 @@ body {
     font-weight: 500;
 }
 
+#active{
+    border-bottom: 1px solid #000;
+}
+
 /* HERO */
 
 #hero {
@@ -103,12 +107,14 @@ body {
 
 #home-1-text h4 {
     font-size: 200%;
+    
 }
 
 #home-1-text h6 {
     font-size: 150%;
     letter-spacing: .5vh;
     padding: 1vh 0 1vh 0;
+
 }
 
 
@@ -342,5 +348,6 @@ footer {
     width: 100%;
     height: 20vh;
     background-color:rgb(250, 250, 250) ;
+    text-align: center;
 }
 
