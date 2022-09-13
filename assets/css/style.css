@@ -55,7 +55,7 @@ body {
     font-weight: 500;
 }
 
-#active{
+.active{
     border-bottom: 1px solid #000;
 }
 
@@ -349,5 +349,49 @@ footer {
     height: 20vh;
     background-color:rgb(250, 250, 250) ;
     text-align: center;
+}
+
+
+
+/* DISCOVER */
+
+#filter li {
+    display: inline;
+    margin-left: 10vh;
+}
+
+#filter a {
+    list-style: none;
+    text-decoration: none;
+    color: #000;
+    font-weight: 500;
+}
+
+
+
+
+#row-1 {
+    width: 100%;
+    height: 20vh;
+    background-color: #000;
+    margin-top: 2vh;
+    
+}
+
+#column-1 {
+    height: 20vh;
+    width: 50%;
+    background-color: antiquewhite;
+    float: right;
+   
+}
+
+#column-2 {
+    height: 20vh;
+    width: 50%;
+    background-color:aliceblue;
+    float: left;
+    
+    
 }
 
