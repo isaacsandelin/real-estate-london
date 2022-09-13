@@ -355,6 +355,11 @@ footer {
 
 /* DISCOVER */
 
+#filter {
+    margin-bottom:4vh ;
+    margin-top: 4vh;
+}
+
 #filter li {
     display: inline;
     margin-left: 10vh;
@@ -367,31 +372,106 @@ footer {
     font-weight: 500;
 }
 
-
+/* ROW 1 */
 
 
 #row-1 {
     width: 100%;
-    height: 20vh;
+    height: 30vh;
+    background-color: #000;
+    margin-top: 4vh;
+    display: inline;
+}
+
+#column-1 {
+    height: 30vh;
+    width: 50%;
+    background: url(../images/imagereader-home-london.png) no-repeat center center;
+    background-size: 100%;
+    float: right;
+   
+}
+
+#column-1 h2 {
+    color: #fff;
+    padding: 20vh 0 0 2vh;
+}
+
+#column-1 a {
+    color: #fff;
+    text-decoration: none;
+    margin: 2vh 0 0 2vh;
+    border-bottom: 2px solid #fff;
+}
+
+#column-2 {
+    height: 30vh;
+    width: 50%;
+    background: url(../images/imagereader-view-london.png) no-repeat center center;
+    background-size: 100%;
+    float: left;
+}
+
+#column-2 h2 {
+    color: #fff;
+    padding: 20vh 0 0 2vh;
+}
+
+#column-2 a {
+    color: #fff;
+    text-decoration: none;
+    margin: 2vh 0 0 2vh;
+    border-bottom: 2px solid #fff;
+}
+
+/* ROW 2 */
+
+#row-2 {
+    width: 100%;
+    height: 30vh;
     background-color: #000;
     margin-top: 2vh;
     
 }
 
-#column-1 {
-    height: 20vh;
+#column-3 {
+    height: 30vh;
     width: 50%;
-    background-color: antiquewhite;
+    background: url(../images/imagereader-home-london-3.png) no-repeat center center;
+    background-size: 100%;
     float: right;
    
 }
 
-#column-2 {
-    height: 20vh;
+#column-3 h2 {
+    color: #fff;
+    padding: 20vh 0 0 2vh;
+}
+
+#column-3 a {
+    color: #fff;
+    text-decoration: none;
+    margin: 2vh 0 0 2vh;
+    border-bottom: 2px solid #fff;
+}
+
+#column-4 {
+    height: 30vh;
     width: 50%;
-    background-color:aliceblue;
+    background: url(../images/imagereader-view-london-1234.png) no-repeat center center;
+    background-size: 100%;
     float: left;
-    
-    
+}
+
+#column-4 h2 {
+    color: #fff;
+    padding: 20vh 0 0 2vh;
+}
+
+#column-4 a {
+    color: #fff;
+    text-decoration: none;
+    margin: 2vh 0 0 2vh;
+    border-bottom: 2px solid #fff;
 }
 
