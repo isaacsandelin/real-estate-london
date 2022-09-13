@@ -8,6 +8,7 @@
 
 body {
     font-family: "DM Sans", sans-serif;
+    background-color: rgb(250, 250, 250) ;
 }
 /* LOGO AND NAV */
 
@@ -203,12 +204,16 @@ body {
     padding: 2vh 32vh 0 32vh;
 }
 
+em {
+    font-size: 90%;
+}
+
 
 /* FORM */
 
 #contact-hero {
     width: 100%;
-    height: 65vh;
+    height: 60vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -264,4 +269,35 @@ textarea:valid~label {
     font-size: 14px;
 
 }
+
+/* LOCATION */
+
+#location {
+    width: 100%;
+    height: 40vh;
+    background-color: rgb(250, 250, 250);
+    margin-top: 55vh;
+}
+
+#location h2 {
+    color: #000;
+    text-align: center;
+    font-size: 200%;
+    padding-bottom: 2vh;
+}
+
+#london {
+    width: 50%;
+    height: 40vh;
+    float:left;
+    background: url(../images/pexels-dominika-gregušová-672532.png) no-repeat center center;
+}
+
+#new-york {
+    width: 50%;
+    height: 40vh;
+    float:right;
+    background: url(../images/pexels-lukas-kloeppel-466685.png) no-repeat center center;
+}
+
 
