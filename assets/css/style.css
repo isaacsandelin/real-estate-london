@@ -475,7 +475,7 @@ footer {
     border-bottom: 2px solid #fff;
 }
 
-/* ROW 3 */
+/* ROW 3 NY */
 
 #row-3 {
     width: 100%;
@@ -489,7 +489,7 @@ footer {
 #column-5 {
     height: 30vh;
     width: 50%;
-    background: url(../images/imagereader-home-london-3.png) no-repeat center center;
+    background: url(../images/NY-1.png) no-repeat center center;
     background-size: 100%;
     float: right;
    
@@ -510,7 +510,7 @@ footer {
 #column-6 {
     height: 30vh;
     width: 50%;
-    background: url(../images/imagereader-view-london-1234.png) no-repeat center center;
+    background: url(../images/NY-2.png) no-repeat center center;
     background-size: 100%;
     float: left;
 }
@@ -528,7 +528,7 @@ footer {
 }
 
 
-/* ROW 4 */
+/* ROW 4 NY */
 
 #row-4 {
     width: 100%;
@@ -541,7 +541,7 @@ footer {
 #column-7 {
     height: 30vh;
     width: 50%;
-    background: url(../images/imagereader-home-london-3.png) no-repeat center center;
+    background: url(../images/NY-3.png) no-repeat center center;
     background-size: 100%;
     float: right;
    
@@ -562,7 +562,7 @@ footer {
 #column-8 {
     height: 30vh;
     width: 50%;
-    background: url(../images/imagereader-view-london-1234.png) no-repeat center center;
+    background: url(../images/NY-4.png) no-repeat center center;
     background-size: 100%;
     float: left;
 }
