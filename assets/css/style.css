@@ -291,6 +291,7 @@ textarea:valid~label {
     height: 40vh;
     float:left;
     background: url(../images/pexels-dominika-gregušová-672532.png) no-repeat center center;
+    background-size: 100%;
 }
 
 #new-york {
@@ -298,6 +299,48 @@ textarea:valid~label {
     height: 40vh;
     float:right;
     background: url(../images/pexels-lukas-kloeppel-466685.png) no-repeat center center;
+    background-size: 100%;
+    
 }
 
+#london h2 {
+    color: #fff;
+    padding-top: 15vh;
+    
+}
+
+#new-york h2 {
+    color: #fff;
+    padding-top: 15vh;
+}
+
+#london a {
+    color: #fff;
+    text-decoration: none;
+    border: 2px solid #fff;
+    padding: .5vh 2vh .5vh 2vh;
+    font-size: 100%;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 2vh 35vh 2vh 35vh;
+}
+
+#new-york a {
+    color: #fff;
+    text-decoration: none;
+    border: 2px solid #fff;
+    padding: .5vh 2vh .5vh 2vh;
+    font-size: 100%;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 2vh 34vh 2vh 34vh;
+    
+}
+
+/* FOOTER */
+footer {
+    width: 100%;
+    height: 20vh;
+    background-color:rgb(250, 250, 250) ;
+}
 
