@@ -579,3 +579,12 @@ footer {
     border-bottom: 2px solid #fff;
 }
 
+
+/* HOME 1 PAGE */
+
+#home-hero {
+    width: 100%;
+    height: 70vh;
+    background: url(../images/London-city-1.png) no-repeat center center;
+    background-size: cover;
+}
