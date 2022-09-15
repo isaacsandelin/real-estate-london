@@ -621,6 +621,11 @@ footer {
 }
 
 #interested {
-    width: 100%;
-    height: 40vh;
+    text-align: center;
+    margin: 5vh 0 5vh 0;
+}
+
+#interested > form {
+    margin: 0 auto;
+    margin-top: 5vh;
 }
